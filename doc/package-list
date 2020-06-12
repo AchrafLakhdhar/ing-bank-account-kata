@@ -1,0 +1,11 @@
+com.ing
+com.ing.client
+com.ing.controllers
+com.ing.entities
+com.ing.exceptions
+com.ing.repositories
+com.ing.security
+com.ing.services
+com.ing.services.impl
+com.ing.swagger
+com.ing.utilities
